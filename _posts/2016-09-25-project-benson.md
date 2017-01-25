@@ -1,6 +1,12 @@
 ---
-layout: post
-title: Metis Project 1
+layout: splash
+title: Project Benson
+categories:
+  - Post
+tags:
+  - jupyter notebooks
+  - data exploration
+  - metis
 ---
 
 ## Background
