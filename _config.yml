@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "James McGlone"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile-pic.jpg"
   bio              : "Data Scientist, Sinophile, Extropian."
   location         : "San Francisco"
   email            : "jim.mcglone@gmail.com"
