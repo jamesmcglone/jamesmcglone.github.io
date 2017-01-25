@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Datasaur"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "James McGlone"
+description              : "A place for projects, theories, and news on all things data."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "James McGlone"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
