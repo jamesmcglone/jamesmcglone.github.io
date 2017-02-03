@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Datasaur"
 title_separator          : "-"
 name                     : "James McGlone"
-description              : "A place for projects, theories, and news on all things data."
+description              : "Embracing the exponential."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "James McGlone"
   avatar           : "/assets/images/profile-pic.jpg"
-  bio              : "Data Scientist, Sinophile, Extropian."
+  bio              : "Data Scientist, Sinophile, Epicurian."
   location         : "San Francisco"
   email            : "jim.mcglone@gmail.com"
   uri              :
