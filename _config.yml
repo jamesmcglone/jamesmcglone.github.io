@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "James McGlone"
   avatar           : "/assets/images/profile-pic.jpg"
-  bio              : "Data Scientist, Sinophile, Epicurian."
+  bio              : "Data enthusiast, sinophile, epicurian."
   location         : "San Francisco"
   email            : "jim.mcglone@gmail.com"
-  uri              :
+  url              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "jim_mcglone"
   vine             :
   weibo            :
   xing             :
