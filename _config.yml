@@ -27,7 +27,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          :  "dark"#light" (default), "dark"
+    colorscheme          : #"light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
@@ -245,6 +245,11 @@ defaults:
       share: true
       related: true
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+    
 defaults:
   # _portfolio
   - scope:
