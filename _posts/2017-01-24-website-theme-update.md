@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Website Theme Update"
+title: "Website Update"
 categories:
   - Post
 tags:
@@ -9,4 +9,4 @@ tags:
   - blogs
 ---
 
-Today I updated the theme to this blog using the Jekyll theme ["Minimal Mistakes"](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose. 
+This website has been created using the Jekyll theme ["Minimal Mistakes"](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose. 
