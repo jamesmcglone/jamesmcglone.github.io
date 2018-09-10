@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : 
+title                    : "Blog"
 title_separator          : "-"
 name                     : "James McGlone"
 description              : "Embracing the exponential."
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "James McGlone"
-  avatar           : "/assets/images/profile-pic.jpg"
+  avatar           : "/assets/images/propic.jpg"
   bio              : "Data, Health, Self"
   location         : "San Francisco"
   email            : "jim.mcglone@gmail.com"
