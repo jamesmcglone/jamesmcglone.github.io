@@ -64,13 +64,12 @@ While this program is a personal undertaking, I also deeply value the transparen
 
 ## Current Status
 
- * Date: Sept. 9
+ * Date: Sept. 9, _74 days remaining_
  * Squat: 245lbs (1x5)
  * Deadlift: 270lbs (1x5)
  * Benchpress: 160lbs (5x5)
  * _Total weight: 675lbs_
  * _Weight remaining: 125lbs_
- * _74 days remaining_
 
 
 
