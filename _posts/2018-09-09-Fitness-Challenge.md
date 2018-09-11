@@ -25,7 +25,7 @@ Objective for this challenge: **Get** **Stronger**
  * _Read 3 manuals / books on proper lifting technique and programming_
  * _Solicit feedback from 5 experienced weight-lifters_
  * _Consume >150g protein/day_
- * _Record lifts 12x (1 each week)_
+ * _Film lifts 12x (1 each week)_
  * _Sleep 8 hours/night, 6 days/ week_
 
 ## Data and Resources
