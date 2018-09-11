@@ -19,7 +19,7 @@ tags:
 
 ## The Challenge
 
-Objective: **Get** **Stronger**
+Objective: _Get Stronger_
  * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for a total of 800lbs_
  * _Read 3 manuals / books on proper lifting technique and programming_
  * _Solicit feedback from 5 experienced weight-lifters_
@@ -29,7 +29,7 @@ Objective: **Get** **Stronger**
 
  Description: Starting on August 27th, the goal is to add 150 pounds across three lifts by Thanksgiving (Nov. 22), increasing my total lift max from 650 to 800 pounds. _Progress updated weekly._
 
- ## Current Status
+## Current Status (Last Update: Sept 9)
 
  * Date: Sept. 9, _74 days remaining_
  * Squat: 245lbs (1x5)
@@ -40,7 +40,7 @@ Objective: **Get** **Stronger**
 
 ## Background
 
-I have been casually lifting on and off for the past year. Using the `Stronglifts 5x5` program by Mehdi Hadim, I have enjoyed adding weight and tweaking my technique along the way. However, since the beginning of this year I have not seen significant improvement with max strength, reflecting a larger sense of malaise in my life. In order to break through this sense of stagnation, I now focus on my fitness routine as a keystone habit. By aiming for an ambitious goal, I intend to not only grow physically stronger but also build good habits, habits that will in turn positively impact other aspects of life. 
+I have been casually lifting on and off for the past year. Using the `Stronglifts 5x5` program by Mehdi Hadim, I have enjoyed adding weight and tweaking my technique along the way. However, since the beginning of this year I have not seen significant improvement with max strength, reflecting a larger sense of malaise in my life. In order to break through this sense of stagnation, I now focus on my fitness routine as a keystone habit. By aiming for an ambitious goal, I intend to not only grow physically stronger but also build good habits - habits that will in turn positively impact other aspects of life. 
 
 
 ### Building Habits
