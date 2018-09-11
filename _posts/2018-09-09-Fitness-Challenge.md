@@ -33,11 +33,11 @@ Objective: _Get Stronger_
 
 I have been casually lifting on and off for the past year. Using the [Stronglifts 5x5](https://stronglifts.com/) program by Mehdi Hadim, I have enjoyed adding weight and tweaking my technique along the way. However, since the beginning of this year I have not seen significant improvement with max strength, reflecting a larger sense of malaise in my life. In order to break through this sense of stagnation, I now focus on my fitness routine as a keystone habit. By aiming for an ambitious goal, I intend to not only grow physically stronger but also build good habits - habits that will in turn positively impact other aspects of life. 
 
-![My Lift progression, or lack thereof, in the past year](../assets/images/IMG_2140.PNG)
+![My Lift progression, or lack thereof, in the past year](/assets/images/IMG_2140.PNG)
 
 ### Building Habits
 
-![The Power of Habit](../assets/images/powerofhabitimage.jpg)
+![The Power of Habit](/assets/images/powerofhabitimage.jpg)
 
 Why aim to get stronger? 
 
@@ -49,7 +49,7 @@ Why aim to get stronger?
 
 ### An Ambitious, Clear Goal
 
-![Measure What Matters](../assets/images/measurewhatmattersimage.jpeg)
+![Measure What Matters](/assets/images/measurewhatmattersimage.jpeg)
 
 While building good habits is the core motivation, the formulation of this goal was inspired by another book: [“Measure What Matters”](https://www.whatmatters.com/) by John Doerr. In his book, Doerr introduces the goal-setting framework of OKRs: Objective-Key Results. While developed in the realm of business management, I have decided to experiment with this goal-setting method and apply it to my own ‘personal’ management. OKRs are broken into two principal components: objectives and key results. An objective is any initiative with a clear path of achievement. Often requiring some effort to define well, objectives tend to be qualitative. Key results, on the other hand, are numerically-based expressions of progress. As a result, key results are inherently quantitative and measurable. They are the clear markers that define degree of success for a given project.
 
@@ -80,7 +80,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
  * Dead lift: 270lbs (1x5)
  * Bench press: 160lbs (5x5)
  * _Total weight: 675lbs_
- * _Weight remaining: 125lbs_
+ * _Weight remaining:_ **125lbs**
  * Days remaining: 74
 
 
