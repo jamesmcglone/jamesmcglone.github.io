@@ -33,17 +33,18 @@ Objective: _Get Stronger_
 
 I have been casually lifting on and off for the past year. Using the [Stronglifts 5x5](https://stronglifts.com/) program by Mehdi Hadim, I have enjoyed adding weight and tweaking my technique along the way. However, since the beginning of this year I have not seen significant improvement with max strength, reflecting a larger sense of malaise in my life. In order to break through this sense of stagnation, I now focus on my fitness routine as a keystone habit. By aiming for an ambitious goal, I intend to not only grow physically stronger but also build good habits - habits that will in turn positively impact other aspects of life. 
 
-> It was a rough year... ![strongliftshistory](/assets/images/strongliftshistory.png)
+_It was a rough year..._
+![strongliftshistory](/assets/images/strongliftshistory.png)
 
 ### Building Habits
 
-![The Power of Habit](/assets/images/powerofhabitimage.jpg)
-
 Why aim to get stronger? 
 
-(1) Recently completing the book [“The Power of Habit”](https://charlesduhigg.com/the-power-of-habit/) by Charles Duhigg, I learned about the concept of a ‘keystone habit’. It turns out that not all habits are created equal. For example: physical exercise is an important and highly influential habit for many people. When prioritized, fitness reinforces routines that impact sleep, diet, who we socialize with, and the environments we choose to occupy. This cascade of behaviors creates a positive feedback loop, further reinforcing the core habit of regular physical exercise. By focusing on the implementation of one keystone habit, a person’s entire daily routine can undergo restructuring. Due to my experience as an athlete growing up, linear progression with sports is already familiar. In order to achieve an ambitious physical goal, sleep, diet, and other behaviors will need to change or be replaced by healthier and more sustainable habits.
+![The Power of Habit](/assets/images/powerofhabitimage.jpg)
 
-(2) Beyond habit building, physical conditioning is also a fantastic way to build confidence and self-esteem - and I could use a boost of confidence after an all-time low this past year. 
+(1) After Recently finishing the book [“The Power of Habit”](https://charlesduhigg.com/the-power-of-habit/) by Charles Duhigg, I learned about the concept of a ‘keystone habit’. It turns out that not all habits are created equal. For example: physical exercise is an important and highly influential habit for many people. When prioritized, fitness reinforces routines that impact sleep, diet, who we socialize with, and the environments we choose to occupy. This cascade of behaviors creates a positive feedback loop, further reinforcing the core habit of regular physical exercise. By focusing on the implementation of one keystone habit, a person’s entire daily routine can undergo restructuring. Due to my experience as an athlete growing up, linear progression with sports is already familiar. In order to achieve an ambitious physical goal, sleep, diet, and other behaviors will need to change or be replaced by healthier and more sustainable habits.
+
+(2) Beyond behavior routines, physical conditioning is also a fantastic way to build confidence and self-esteem - and I could use a boost of confidence after an all-time low this past year. 
 
 (3) Furthermore, I am interested in learning more about human physiology and how it applies and transfers force. Strength faces diminishing returns as weight increases: larger amounts of energy must be expended to sustain the same rate of progress. Proper technique must also be applied to engage our body’s kinetic chain when lifting heavy. I believe that learning how to physically apply force and channel momentum will be a transferable skill, applicable to endeavors beyond moving heavy iron.
 
