@@ -33,9 +33,9 @@ While this program is a personal undertaking, I deeply value the transparent nat
 ## My Lifting Objective and Key Results 
 
 My objective for this challenge: Get Stronger 
-By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress (800lb total)
-Read 3 manuels / books on proper lifting technique and programming
-Solicit feedback from 5 experienced weight-lifters
-Consume >150g protein/day
-Record lifts 12x (1 each week)
-Sleep 8 hours/night, 6 days/ week
+ * By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress (800lb total)
+ * Read 3 manuels / books on proper lifting technique and programming
+ * Solicit feedback from 5 experienced weight-lifters
+ * Consume >150g protein/day
+ * Record lifts 12x (1 each week)
+ * Sleep 8 hours/night, 6 days/ week
