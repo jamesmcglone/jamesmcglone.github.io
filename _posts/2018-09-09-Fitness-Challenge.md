@@ -64,7 +64,7 @@ While this program is a personal undertaking, I also deeply value the transparen
 
 ## Current Status
 
- * Date: _Sept. 9
+ * Date: Sept. 9
  * Squat: 245lbs (1x5)
  * Deadlift: 270lbs (1x5)
  * Benchpress: 160lbs (5x5)
