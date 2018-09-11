@@ -4,9 +4,10 @@ title: "Lifting Challenge: 800 pounds in 88 days"
 categories:
   - Post
 tags:
-  - theme
-  - jekyll
-  - blogs
+  - personal challenge
+  - fitness
+  - habits
+  - OKR
 ---
 
 # Weight Lifting Challenge: 800 pounds in 88 days
@@ -23,7 +24,7 @@ By Thanksgiving, add 150 pounds across three lifts, increasing total weight from
 
 Objective for this challenge: Get Stronger 
  * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for an 800lb total_
- * _Read 3 manuels / books on proper lifting technique and programming_
+ * _Read 3 manuals / books on proper lifting technique and programming_
  * _Solicit feedback from 5 experienced weight-lifters_
  * _Consume >150g protein/day_
  * _Record lifts 12x (1 each week)_
