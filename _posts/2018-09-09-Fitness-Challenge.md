@@ -33,7 +33,7 @@ Objective: _Get Stronger_
 
 I have been casually lifting on and off for the past year. Using the [Stronglifts 5x5](https://stronglifts.com/) program by Mehdi Hadim, I have enjoyed adding weight and tweaking my technique along the way. However, since the beginning of this year I have not seen significant improvement with max strength, reflecting a larger sense of malaise in my life. In order to break through this sense of stagnation, I now focus on my fitness routine as a keystone habit. By aiming for an ambitious goal, I intend to not only grow physically stronger but also build good habits - habits that will in turn positively impact other aspects of life. 
 
-![My Lift progression, or lack thereof, in the past year](/assets/images/strongliftshistory.png)
+> It was a rough year... ![strongliftshistory](/assets/images/strongliftshistory.png)
 
 ### Building Habits
 
