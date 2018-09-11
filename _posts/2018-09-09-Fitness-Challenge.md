@@ -58,7 +58,7 @@ My **key results** for this challenge:
  * _Record lifts 12x (1 each week)_
  * _Sleep 8 hours/night, 6 days/ week_
 
-While this program is a personal undertaking, I also deeply value the transparent nature of OKRs. It is important to note that OKRs arise from a context of team-oriented work and communication. Good OKRs align with a team’s purpose and clearly communicate how to get there. Keeping a larger audience in mind, even if this particular challenge is not intended for anyone else, will reinforce good practices of clear goal-setting and record-keeping.
+Note: OKRs arise from a context of team-oriented work and communication. Good OKRs align with a team’s purpose and clearly communicate how to get there. While this program is a personal undertaking, I deeply value the transparent nature of OKRs. Keeping a larger audience in mind, even if this particular challenge is not embedded in a larger team's efforts, will reinforce good practices of clear goal-setting and record-keeping.
 
 ## Data and Resources
 
