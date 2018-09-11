@@ -10,17 +10,16 @@ tags:
   - OKR
 ---
 
-## Overview
+## Contents
  
  1. The Challenge
- 2. Data / Resources
- 3. Background
+ 2. Status
+ 3. Background 
+ 4. Data / Resources
 
 ## The Challenge
 
-By Thanksgiving, add 150 pounds across three lifts, increasing total weight from 650 to 800 pounds. _Update progress weekly._
-
-Objective for this challenge: **Get** **Stronger**
+Objective: **Get** **Stronger**
  * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for a total of 800lbs_
  * _Read 3 manuals / books on proper lifting technique and programming_
  * _Solicit feedback from 5 experienced weight-lifters_
@@ -28,14 +27,16 @@ Objective for this challenge: **Get** **Stronger**
  * _Film lifts 12x (1 each week)_
  * _Sleep 8 hours/night, 6 days/ week_
 
-## Data and Resources
+ Description: Starting on August 27th, the goal is to add 150 pounds across three lifts by Thanksgiving (Nov. 22), increasing my total lift max from 650 to 800 pounds. _Progress updated weekly._
 
- * Stronglifts 5x5 App
- * Myfitnesspal (or alternative)
- * Fitbit sleep tracker
- * Youtube - post videos
- * Tutorials & Manuals - Stronglifts, Starting Strength, and one more
- * List, contact, and take notes from 5 people
+ ## Current Status
+
+ * Date: Sept. 9, _74 days remaining_
+ * Squat: 245lbs (1x5)
+ * Deadlift: 270lbs (1x5)
+ * Benchpress: 160lbs (5x5)
+ * _Total weight: 675lbs_
+ * _Weight remaining: 125lbs_
 
 ## Background
 
@@ -62,14 +63,15 @@ My **key results** for this challenge:
 
 While this program is a personal undertaking, I also deeply value the transparent nature of OKRs. It is important to note that OKRs arise from a context of team-oriented work and communication. Good OKRs align with a team’s purpose and clearly communicate how to get there. Keeping a larger audience in mind, even if this particular challenge is not intended for anyone else, will reinforce good practices of clear goal-setting and record-keeping.
 
-## Current Status
+## Data and Resources
 
- * Date: Sept. 9, _74 days remaining_
- * Squat: 245lbs (1x5)
- * Deadlift: 270lbs (1x5)
- * Benchpress: 160lbs (5x5)
- * _Total weight: 675lbs_
- * _Weight remaining: 125lbs_
+ * Stronglifts 5x5 App
+ * Myfitnesspal (or alternative)
+ * Fitbit sleep tracker
+ * Youtube - post videos
+ * Tutorials & Manuals - Stronglifts, Starting Strength, and one more
+ * List, contact, and take notes from 5 people
+
 
 
 
