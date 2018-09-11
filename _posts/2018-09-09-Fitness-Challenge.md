@@ -34,7 +34,7 @@ Objective for this challenge: **Get** **Stronger**
  * Myfitnesspal (or alternative)
  * Fitbit sleep tracker
  * Youtube - post videos
- * Tutorials & Manuals - `Stronglifts`, `Starting Strength`, and one more
+ * Tutorials & Manuals - Stronglifts, Starting Strength, and one more
  * List, contact, and take notes from 5 people
 
 ## Background
@@ -51,6 +51,7 @@ But why aim to get stronger? Recently completing the book `“The Power of Habit
 While building good habits is the core motivation, the creation of this ambitious goal is inspired by another book: `“Measure What Matters”` by John Doerr. In his book, Doerr introduces the goal-setting framework of OKRs: Objective-Key Results. While developed in the realm of business management, I have decided to experiment with this goal-setting method and apply it to my own ‘personal’ management. OKRs are broken into two principal components: objectives and key results. An objective is any initiative with a clear path of achievement. Often requiring some effort to define well, objectives tend to be qualitative. Key results, on the other hand, are numerically-based expressions of progress. As a result, key results are inherently quantitative and measurable. They are the clear markers that define degree of success for a given project.
 
 My objective for this challenge: _Get Stronger_
+
 My key results for this challenge:
  * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for an 800lb total_
  * _Read 3 manuels / books on proper lifting technique and programming_
