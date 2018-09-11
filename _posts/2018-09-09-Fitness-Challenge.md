@@ -62,7 +62,8 @@ Key Results:
 
 While this program is a personal undertaking, I also deeply value the transparent nature of OKRs. It is important to note that OKRs arise from a context of team-oriented work and communication. Good OKRs align with a team’s purpose and clearly communicate how to get there. Keeping a larger audience in mind, even if this particular challenge is not intended for anyone else, will reinforce good practices of clear goal-setting and record-keeping.
 
-Current Status (Sept. 9)
+##Current Status (Sept. 9)
+
  * Squat: 245lbs (1x5)
  * Deadlift: 270lbs (1x5)
  * Benchpress: 160lbs (5x5)
