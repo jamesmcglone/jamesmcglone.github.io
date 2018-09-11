@@ -13,9 +13,9 @@ tags:
 ## Contents
  
  1. The Challenge
- 2. Status
- 3. Background 
- 4. Data / Resources
+ 2. Background 
+ 3. Data / Resources
+ 4. Progress
 
 ## The Challenge
 
@@ -28,15 +28,6 @@ Objective: _Get Stronger_
  * _Sleep 8 hours/night, 6 days/ week_
 
  Description: Starting on August 27th, the goal is to add 150 pounds across three lifts by Thanksgiving (Nov. 22), increasing my total lift max from 650 to 800 pounds. _Progress updated weekly._
-
-## Current Status (Last Update: Sept 9)
-
- * Date: Sept. 9, _74 days remaining_
- * Squat: 245lbs (1x5)
- * Deadlift: 270lbs (1x5)
- * Benchpress: 160lbs (5x5)
- * _Total weight: 675lbs_
- * _Weight remaining: 125lbs_
 
 ## Background
 
@@ -78,6 +69,14 @@ While this program is a personal undertaking, I also deeply value the transparen
  * Tutorials & Manuals: Stronglifts, Starting Strength, and one more
  * Feedback: _In progress_
 
+## Progress (Last Update: Sept 9)
+
+ * Squat: 245lbs (1x5) 
+ * Deadlift: 270lbs (1x5)
+ * Benchpress: 160lbs (5x5)
+ * _Total weight: 675lbs_
+ * _Weight remaining: 125lbs_
+ * Days remaining: 74
 
 
 
