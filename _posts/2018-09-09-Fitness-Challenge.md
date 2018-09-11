@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Lifting Challenge: 800 pounds in 88 days"
 categories:
   - Post
@@ -11,7 +11,7 @@ tags:
 
 # Weight Lifting Challenge: 800 pounds in 88 days
 
-##Overview
+## Overview
  
  1. The Challenge
  2. Data / Resources
