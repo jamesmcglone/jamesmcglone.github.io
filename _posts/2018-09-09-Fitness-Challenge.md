@@ -15,6 +15,14 @@ tags:
 
 By Thanksgiving, add 150 pounds across three lifts, increasing total weight from 650 to 800 pounds. 
 
+`Objective for this challenge: Get Stronger 
+ * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for an 800lb total_
+ * _Read 3 manuels / books on proper lifting technique and programming_
+ * _Solicit feedback from 5 experienced weight-lifters_
+ * _Consume >150g protein/day_
+ * _Record lifts 12x (1 each week)_
+ * _Sleep 8 hours/night, 6 days/ week_`
+
 ## Background
 
 I have been casually lifting on and off for the past year. Using the `Stronglifts 5x5` program by Mehdi Hadim, I have enjoyed adding weight and tweaking my technique along the way. However, since the beginning of this year I have not seen significant improvement with max strength, reflecting a larger sense of malaise in my life. In order to break through this sense of stagnation, I now focus on my fitness routine as a keystone habit. By aiming for an ambitious goal, I intend to not only grow physically stronger but also build good habits, habits that will in turn positively impact other aspects of life. 
@@ -32,10 +40,10 @@ While this program is a personal undertaking, I deeply value the transparent nat
 
 ## My Lifting Objective and Key Results 
 
-My objective for this challenge: Get Stronger 
+`My objective for this challenge: Get Stronger 
  * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for an 800lb total_
  * _Read 3 manuels / books on proper lifting technique and programming_
  * _Solicit feedback from 5 experienced weight-lifters_
  * _Consume >150g protein/day_
  * _Record lifts 12x (1 each week)_
- * _Sleep 8 hours/night, 6 days/ week_
+ * _Sleep 8 hours/night, 6 days/ week_`
