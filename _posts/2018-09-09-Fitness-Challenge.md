@@ -20,7 +20,7 @@ tags:
 
 By Thanksgiving, add 150 pounds across three lifts, increasing total weight from 650 to 800 pounds. _Progress is to be updated weekly._
 
-Objective for this challenge: **Get Stronger**
+Objective for this challenge: **Get** **Stronger**
  * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for an 800lb total_
  * _Read 3 manuals / books on proper lifting technique and programming_
  * _Solicit feedback from 5 experienced weight-lifters_
