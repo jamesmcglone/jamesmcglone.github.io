@@ -20,14 +20,14 @@ tags:
 ## The Challenge
 
 Objective: _Get Stronger_
- * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for a total of 800lbs_
+ * _By 11/22, add 150lbs across 3 lifts: squat, dead lift, and bench press for a total of 800lbs_ (starting weights: 240, 255, 155 respectively)
  * _Read 3 manuals / books on proper lifting technique and programming_
  * _Solicit feedback from 5 experienced weight-lifters_
  * _Consume >150g protein/day_
  * _Film lifts 12x (1 each week)_
  * _Sleep 8 hours/night, 6 days/ week_
 
- Description: Starting on August 27th, the goal is to add 150 pounds across three lifts by Thanksgiving (Nov. 22), increasing my total lift max from 650 to 800 pounds. _Progress updated weekly._
+ Description: Starting on August 27th, the goal is to add 150 pounds across three lifts by Thanksgiving (Nov. 22), increasing my total lift max from 650 to 800 pounds. Starting max lifts are 240lbs for squats, 255 for dead lifts, 155lbs for bench press.  _Progress updated weekly._
 
 ## Background
 
@@ -72,8 +72,8 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
 ## Progress (Last Update: Sept 9)
 
  * Squat: 245lbs (1x5) 
- * Deadlift: 270lbs (1x5)
- * Benchpress: 160lbs (5x5)
+ * Dead lift: 270lbs (1x5)
+ * Bench press: 160lbs (5x5)
  * _Total weight: 675lbs_
  * _Weight remaining: 125lbs_
  * Days remaining: 74
