@@ -49,7 +49,6 @@ Why aim to get stronger?
 (3) Furthermore, I am interested in learning more about human physiology and how it applies and transfers force. Strength faces diminishing returns as weight increases: larger amounts of energy must be expended to sustain the same rate of progress. Proper technique must also be applied to engage our body’s kinetic chain when lifting heavy. I believe that learning how to physically apply force and channel momentum will be a transferable skill, applicable to endeavors beyond moving heavy iron.
 
 ### An Ambitious, Clear Goal
-
 ![Measure What Matters](/assets/images/measurewhatmattersimage.jpeg)
 
 While building good habits is the core motivation, the formulation of this goal was inspired by another book: [“Measure What Matters”](https://www.whatmatters.com/) by John Doerr. In his book, Doerr introduces the goal-setting framework of OKRs: Objective-Key Results. While developed in the realm of business management, I have decided to experiment with this goal-setting method and apply it to my own ‘personal’ management. OKRs are broken into two principal components: objectives and key results. An objective is any initiative with a clear path of achievement. Often requiring some effort to define well, objectives tend to be qualitative. Key results, on the other hand, are numerically-based expressions of progress. As a result, key results are inherently quantitative and measurable. They are the clear markers that define degree of success for a given project.
