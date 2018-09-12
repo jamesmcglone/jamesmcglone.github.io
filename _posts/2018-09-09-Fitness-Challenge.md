@@ -21,12 +21,13 @@ tags:
 ## The Challenge
 
 Objective: _Get Stronger_
- * _By 11/22, add 150lbs across 3 lifts: squat, dead lift, and bench press for a total of 800lbs_ (starting weights: 240, 255, 155 respectively)
+ * _By 11/22, add 150lbs to my current 650lbs max for 3 lifts: squat (240), dead lift(255), and bench press(155), to a total of 800lbs_ 
+ * _Consume >150g protein/day_
+ * _Sleep 8 hours/night, 6 days/ week_
+ * _Film lifts 12x (1 each week)_
  * _Read 3 manuals / books on proper lifting technique and programming_
  * _Solicit feedback from 5 experienced weight-lifters_
- * _Consume >150g protein/day_
- * _Film lifts 12x (1 each week)_
- * _Sleep 8 hours/night, 6 days/ week_
+
 
  Description: Starting on August 27th, the goal is to add 150 pounds across three lifts by Thanksgiving (Nov. 22), increasing my total lift max from 650 to 800 pounds. Starting max lifts are 240lbs for squats, 255 for dead lifts, 155lbs for bench press.  _Progress updated weekly._
 
@@ -58,11 +59,12 @@ While building good habits is the core motivation, the formulation of this goal 
 
 > My **key results** for this challenge:
  * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for an 800lb total_
+ * _Consume >150g protein/day_
+ * _Sleep 8 hours/night, 6 days/ week_
+ * _Record lifts 12x (1 each week)_
  * _Read 3 manuels / books on proper lifting technique and programming_
  * _Solicit feedback from 5 experienced weight-lifters_
- * _Consume >150g protein/day_
- * _Record lifts 12x (1 each week)_
- * _Sleep 8 hours/night, 6 days/ week_
+
 
 Note: OKRs arise from a context of team-oriented work and communication. Good OKRs align with a team’s purpose and clearly communicate how to get there. While this program is a personal undertaking, I deeply value the transparent nature of OKRs. Keeping a larger audience in mind, even if this particular challenge is not embedded in a larger team's efforts, will reinforce good practices of clear goal-setting and record-keeping.
 
@@ -115,6 +117,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
 ### Week 10 (11/4)
 ### Week 11 (11/11)
 ### Week 12 (11/18)
+### Week 13 (11/22)
 
 ## Results
 
