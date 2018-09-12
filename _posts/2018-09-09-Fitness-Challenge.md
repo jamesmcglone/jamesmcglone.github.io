@@ -47,9 +47,10 @@ Purple: Overhead Press
 
 Why aim to get stronger? 
 
-![The Power of Habit](/assets/images/powerofhabitimage.jpg)
+
 
 (1) After Recently finishing the book [“The Power of Habit”](https://charlesduhigg.com/the-power-of-habit/) by Charles Duhigg, I learned about the concept of a ‘keystone habit’. It turns out that not all habits are created equal. For example: physical exercise is an important and highly influential habit for many people. When prioritized, fitness reinforces routines that impact sleep, diet, who we socialize with, and the environments we choose to occupy. This cascade of behaviors creates a positive feedback loop, further reinforcing the core habit of regular physical exercise. By focusing on the implementation of one keystone habit, a person’s entire daily routine can undergo restructuring. Due to my experience as an athlete growing up, linear progression with sports is already familiar. In order to achieve an ambitious physical goal, sleep, diet, and other behaviors will need to change or be replaced by healthier and more sustainable habits.
+![The Power of Habit](/assets/images/powerofhabitimage.jpg)
 
 (2) Beyond behavior routines, physical conditioning is also a fantastic way to build confidence and self-esteem - and I could use a boost of confidence after an all-time low this past year. 
 
@@ -61,7 +62,7 @@ Why aim to get stronger?
 While building good habits is the core motivation, the formulation of this goal was inspired by another book: [“Measure What Matters”](https://www.whatmatters.com/) by John Doerr. In his book, Doerr introduces the goal-setting framework of OKRs: Objective-Key Results. While developed in the realm of business management, I have decided to experiment with this goal-setting method and apply it to my own ‘personal’ management. OKRs are broken into two principal components: objectives and key results. An objective is any initiative with a clear path of achievement. Often requiring some effort to define well, objectives tend to be qualitative. Key results, on the other hand, are numerically-based expressions of progress. As a result, key results are inherently quantitative and measurable. They are the clear markers that define degree of success for a given project.
 
 > My **objective** for this challenge: _Get Stronger_
->
+
 > My **key results** for this challenge:
  * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for an 800lb total_
  * _Read 3 manuels / books on proper lifting technique and programming_
