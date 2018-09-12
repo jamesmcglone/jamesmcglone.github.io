@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Weight Lifting Challenge: 800 pounds in 88 days"
+title: "Fitness Challenge: Lift 800 pounds in 88 days"
 categories:
   - Post
 tags:
@@ -16,6 +16,7 @@ tags:
  2. Background 
  3. Data + Resources
  4. Progress
+ 5. Results
 
 ## The Challenge
 
@@ -105,6 +106,17 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
  	[Saturday 9/8](https://www.youtube.com/watch?v=f6t-gu9pBUY)
 
 ### Week 3 (9/16)
+### Week 4 (9/23)
+### Week 5 (9/30)
+### Week 6 (10/7)
+### Week 7 (10/14)
+### Week 8 (10/21)
+### Week 9 (10/28)
+### Week 10 (11/4)
+### Week 11 (11/11)
+### Week 12 (11/18)
+
+## Results
 
 
 
