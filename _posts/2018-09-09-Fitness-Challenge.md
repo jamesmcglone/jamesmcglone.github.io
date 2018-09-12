@@ -39,10 +39,9 @@ _It was a rough year..._ ![strongliftshistory](/assets/images/strongliftshistory
 
 Why aim to get stronger? 
 
-![The Power of Habit](/assets/images/powerofhabitimage.jpg)
-
 (1) After Recently finishing the book [“The Power of Habit”](https://charlesduhigg.com/the-power-of-habit/) by Charles Duhigg, I learned about the concept of a ‘keystone habit’. It turns out that not all habits are created equal. For example: physical exercise is an important and highly influential habit for many people. When prioritized, fitness reinforces routines that impact sleep, diet, who we socialize with, and the environments we choose to occupy. This cascade of behaviors creates a positive feedback loop, further reinforcing the core habit of regular physical exercise. By focusing on the implementation of one keystone habit, a person’s entire daily routine can undergo restructuring. Due to my experience as an athlete growing up, linear progression with sports is already familiar. In order to achieve an ambitious physical goal, sleep, diet, and other behaviors will need to change or be replaced by healthier and more sustainable habits.
 
+![The Power of Habit](/assets/images/powerofhabitimage.jpg)
 
 (2) Beyond behavior routines, physical conditioning is also a fantastic way to build confidence and self-esteem - and I could use a boost of confidence after an all-time low this past year. 
 
