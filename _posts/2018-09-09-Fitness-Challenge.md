@@ -79,30 +79,30 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
 ### Week 1 (9/2)
 
  * Lift Total: 660lbs (1x5) 
- 	* Squat: 240lbs (deload)
- 	* Deadlift: 265lbs (1x5)
- 	* Benchpress: 155lbs (1x5)
- 	* _Weight remaining:_ **140lbs**
+   * Squat: 240lbs (deload)
+   * Deadlift: 265lbs (1x5)
+   * Benchpress: 155lbs (1x5)
+   * _Weight remaining:_ **140lbs**
  * Food Calories
- 	* Protein (DAV): 161g
- 	* Calories (DAV): 2765
+   * Protein (DAV): 161g
+   * Calories (DAV): 2765
  * Sleep (DAV): 7:57
  * Video:
- 	[![](/assets/images/picassobull.jpg)](https://www.youtube.com/watch?v=WtfAwK4DsyQ&t=178s)
+ 	[Friday 8/31)](https://www.youtube.com/watch?v=WtfAwK4DsyQ&t=178s)
 
 ### Week 2 (9/9)
 
  * Lift Total: 675lbs
- 	* Squat: 245lbs (1x5)
- 	* Deadlift: 270lbs (1x5)
- 	* Benchpress: 160lbs (5x5)
- 	* _Weight remaining:_ **125lbs**
+   * Squat: 245lbs (1x5)
+   * Deadlift: 270lbs (1x5)
+   * Benchpress: 160lbs (5x5)
+   * _Weight remaining:_ **125lbs**
  * Foodlog
- 	* Protein (DAV): 190g
- 	* Calories (DAV): 2710
+   * Protein (DAV): 190g
+   * Calories (DAV): 2710
  * Sleep (DAV): 8:23
  * Video:
- 	[![](/assets/images/picassobull.jpg)](https://www.youtube.com/watch?v=f6t-gu9pBUY)
+ 	[Friday 9/8](https://www.youtube.com/watch?v=f6t-gu9pBUY)
 
  ### Week 3 (9/16)
 
