@@ -40,7 +40,6 @@ Blue: Dead Lift
 Orange: Bench Press
 Gray: Bar Row
 Purple: Overhead Press
-
 ![strongliftshistory](/assets/images/strongliftshistory.png)
 
 ### Building Habits
