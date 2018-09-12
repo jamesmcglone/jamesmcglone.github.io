@@ -82,7 +82,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
    * Squat: 240lbs (deload)
    * Deadlift: 265lbs (1x5)
    * Benchpress: 155lbs (1x5)
-   * _Weight remaining:_ **140lbs**
+   * _Weight remaining:_ 140lbs
  * Food log
    * Protein (DAV): 161g
    * Calories (DAV): 2765
@@ -96,7 +96,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
    * Squat: 245lbs (1x5)
    * Deadlift: 270lbs (1x5)
    * Benchpress: 160lbs (5x5)
-   * _Weight remaining:_ **125lbs**
+   * _Weight remaining:_ 125lbs
  * Food log
    * Protein (DAV): 190g
    * Calories (DAV): 2710
