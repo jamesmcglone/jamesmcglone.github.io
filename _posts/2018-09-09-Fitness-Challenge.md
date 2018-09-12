@@ -104,7 +104,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
  * Video:
  	[Saturday 9/8](https://www.youtube.com/watch?v=f6t-gu9pBUY)
 
- ### Week 3 (9/16)
+### Week 3 (9/16)
 
 
 
