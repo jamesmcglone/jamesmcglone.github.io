@@ -83,7 +83,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
    * Deadlift: 265lbs (1x5)
    * Benchpress: 155lbs (1x5)
    * _Weight remaining:_ **140lbs**
- * Food Calories
+ * Food log
    * Protein (DAV): 161g
    * Calories (DAV): 2765
  * Sleep (DAV): 7:57
@@ -97,7 +97,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
    * Deadlift: 270lbs (1x5)
    * Benchpress: 160lbs (5x5)
    * _Weight remaining:_ **125lbs**
- * Foodlog
+ * Food log
    * Protein (DAV): 190g
    * Calories (DAV): 2710
  * Sleep (DAV): 8:23
