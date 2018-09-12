@@ -78,7 +78,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
 
 ### Week 1 (9/2)
 
- * Lift Total: 660lbs (1x5) 
+ * Lift Total: 660lbs
    * Squat: 240lbs (deload)
    * Deadlift: 265lbs (1x5)
    * Benchpress: 155lbs (1x5)
@@ -88,7 +88,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
    * Calories (DAV): 2765
  * Sleep (DAV): 7:57
  * Video:
- 	[Friday 8/31)](https://www.youtube.com/watch?v=WtfAwK4DsyQ&t=178s)
+ 	[Friday 8/31](https://www.youtube.com/watch?v=WtfAwK4DsyQ&t=178s)
 
 ### Week 2 (9/9)
 
@@ -102,7 +102,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
    * Calories (DAV): 2710
  * Sleep (DAV): 8:23
  * Video:
- 	[Friday 9/8](https://www.youtube.com/watch?v=f6t-gu9pBUY)
+ 	[Saturday 9/8](https://www.youtube.com/watch?v=f6t-gu9pBUY)
 
  ### Week 3 (9/16)
 
