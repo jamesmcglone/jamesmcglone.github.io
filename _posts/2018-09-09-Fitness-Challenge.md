@@ -14,7 +14,7 @@ tags:
  
  1. The Challenge
  2. Background 
- 3. Data / Resources
+ 3. Data + Resources
  4. Progress
 
 ## The Challenge
@@ -34,6 +34,13 @@ Objective: _Get Stronger_
 I have been casually lifting on and off for the past year. Using the [Stronglifts 5x5](https://stronglifts.com/) program by Mehdi Hadim, I have enjoyed adding weight and tweaking my technique along the way. However, since the beginning of this year I have not seen significant improvement with max strength, reflecting a larger sense of malaise in my life. In order to break through this sense of stagnation, I now focus on my fitness routine as a keystone habit. By aiming for an ambitious goal, I intend to not only grow physically stronger but also build good habits - habits that will in turn positively impact other aspects of life. 
 
 _It was a rough year..._
+Red: Body Weight
+Green: Squat
+Blue: Dead Lift
+Orange: Bench Press
+Gray: Bar Row
+Purple: Overhead Press
+
 ![strongliftshistory](/assets/images/strongliftshistory.png)
 
 ### Building Habits
@@ -54,7 +61,7 @@ Why aim to get stronger?
 While building good habits is the core motivation, the formulation of this goal was inspired by another book: [“Measure What Matters”](https://www.whatmatters.com/) by John Doerr. In his book, Doerr introduces the goal-setting framework of OKRs: Objective-Key Results. While developed in the realm of business management, I have decided to experiment with this goal-setting method and apply it to my own ‘personal’ management. OKRs are broken into two principal components: objectives and key results. An objective is any initiative with a clear path of achievement. Often requiring some effort to define well, objectives tend to be qualitative. Key results, on the other hand, are numerically-based expressions of progress. As a result, key results are inherently quantitative and measurable. They are the clear markers that define degree of success for a given project.
 
 > My **objective** for this challenge: _Get Stronger_
-
+>
 > My **key results** for this challenge:
  * _By 11/22, add 150lbs across 3 lifts: squat, deadlift, and benchpress for an 800lb total_
  * _Read 3 manuels / books on proper lifting technique and programming_
