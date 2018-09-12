@@ -10,7 +10,7 @@ tags:
   - OKR
 ---
 
-## Contents
+## Content
  
  1. The Challenge
  2. Background 
