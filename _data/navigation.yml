@@ -2,9 +2,9 @@
 main:
   #- title: "Posts"
   #  url: /posts/
-  #- title: "Projects"
+  # - title: "projects"
   #  url: /portfolio/
-  - title: "About"
+  - title: "about"
     url: /about/
   # - title: "Posts"
   #   url: /year-archive/
