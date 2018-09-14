@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "A Human Platform"
+title                    : "the human platform"
 title_separator          : "-"
 name                     : "James McGlone"
 description              : "Embracing the exponential."
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "James McGlone"
   avatar           : "/assets/images/propic.jpg"
-  bio              : "A collection of habits, musings, and the occasional experiment"
+  bio              : "A collection of habits, musings, and experiments"
   location         : "San Francisco"
   email            : "jim.mcglone@gmail.com"
   url              :
