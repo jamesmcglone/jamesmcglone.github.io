@@ -108,6 +108,19 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
  	[Saturday 9/8](https://www.youtube.com/watch?v=f6t-gu9pBUY)
 
 ### Week 3 (9/16)
+
+ * Lift Total: 675lbs
+   * Squat: 245lbs (deload)
+   * Deadlift: 280lbs (1x5)
+   * Benchpress: 165lbs (5x5)
+   * _Weight remaining:_ 110lbs
+ * Food log
+   * Protein (DAV): 
+   * Calories (DAV): 
+ * Sleep (DAV): 
+ * Video:
+  Friday 9/14
+
 ### Week 4 (9/23)
 ### Week 5 (9/30)
 ### Week 6 (10/7)
