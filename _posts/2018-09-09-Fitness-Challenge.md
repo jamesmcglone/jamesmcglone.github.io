@@ -119,7 +119,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
    * Calories (DAV): 
  * Sleep (DAV): 
  * Video:
-  Friday 9/14
+  [Friday 9/14](https://youtu.be/I6ijmghDeEs)
 
 ### Week 4 (9/23)
 ### Week 5 (9/30)
