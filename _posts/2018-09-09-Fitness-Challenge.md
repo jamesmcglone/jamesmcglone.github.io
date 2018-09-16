@@ -115,9 +115,9 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
    * Benchpress: 165lbs (5x5)
    * _Weight remaining:_ 110lbs
  * Food log
-   * Protein (DAV): 
-   * Calories (DAV): 
- * Sleep (DAV): 
+   * Protein (DAV): 178g
+   * Calories (DAV): 3223
+ * Sleep (DAV): 7:28
  * Video:
   [Friday 9/14](https://youtu.be/I6ijmghDeEs)
 
