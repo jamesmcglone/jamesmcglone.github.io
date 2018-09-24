@@ -33,7 +33,7 @@ Objective: _Get Stronger_
 
 ## Background
 
-I have been casually lifting on and off for the past year. Using the [Stronglifts 5x5](https://stronglifts.com/) program by Mehdi Hadim, I have enjoyed adding weight and tweaking my technique along the way. However, since the beginning of this year I have not seen significant improvement with max strength, reflecting a larger sense of malaise in my life. In order to break through this sense of stagnation, I now focus on my fitness routine as a keystone habit. By aiming for an ambitious goal, I intend to not only grow physically stronger but also build good habits - habits that will in turn positively impact other aspects of life. 
+I have been casually lifting on and off for the past year. Using the [Stronglifts 5x5](https://stronglifts.com/) program by Mehdi Hadim, I have enjoyed adding weight and tweaking my technique along the way. However, since the beginning of this year I have not seen significant improvement with max strength. In order to break through this plateau, I focus on my fitness routine as a keystone habit. By aiming for an ambitious goal, I intend to not only grow physically stronger but also build good habits - habits that will in turn positively impact other aspects of life. 
 
 _It was a rough year..._ ![strongliftshistory](/assets/images/strongliftshistory.png)
 
@@ -109,7 +109,7 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
 
 ### Week 3 (9/16)
 
- * Lift Total: 675lbs
+ * Lift Total: 690lbs
    * Squat: 245lbs (deload)
    * Deadlift: 280lbs (1x5)
    * Benchpress: 165lbs (5x5)
@@ -122,6 +122,20 @@ Note: OKRs arise from a context of team-oriented work and communication. Good OK
   [Friday 9/14](https://youtu.be/I6ijmghDeEs)
 
 ### Week 4 (9/23)
+
+ * Lift Total: 700lbs
+   * Squat: 245lbs (deload)
+   * Deadlift: 285lbs (1x4)
+   * Benchpress: 170lbs (1x5)
+   * _Weight remaining:_ 100lbs
+ * Food log
+   * Protein (DAV): 168g
+   * Calories (DAV): 2916
+ * Sleep (DAV): 
+ * Body Weight: 187.6lbs
+ * Video:
+  [Friday 9/21](https://youtu.be/i4_xd-HRe-8)
+
 ### Week 5 (9/30)
 ### Week 6 (10/7)
 ### Week 7 (10/14)
